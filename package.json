@@ -1,0 +1,19 @@
+{
+  "name": "kulineran",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuraisyahwah/Kulineran.git"
+  },
+  "author": "icha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuraisyahwah/Kulineran/issues"
+  },
+  "homepage": "https://github.com/nuraisyahwah/Kulineran#readme"
+}
